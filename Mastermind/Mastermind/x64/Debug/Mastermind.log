@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\SAURABH AGRAWAL\source\repos\Mastermind\Mastermind\Source.c(76,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\SAURABH AGRAWAL\source\repos\Mastermind\Mastermind\Source.c(77,9): warning C4101: 'i': unreferenced local variable
+  Mastermind.vcxproj -> C:\Users\SAURABH AGRAWAL\source\repos\Mastermind\x64\Debug\Mastermind.exe
